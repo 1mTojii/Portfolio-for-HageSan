@@ -1,7 +1,7 @@
 # [HageSan's](https://www.instagram.com/hagesanja/) Portfolio
 
 NOTE: Its note completed yet, its under construction <br>
-NOTE: The application is hosted, but is still under construction
+ The application is hosted, but is still under construction <br>
 
 This is a custom portfolio page built for my client, designed to
 sit at the center of their social presence.
@@ -34,14 +34,6 @@ hagesanja/
 └── images/
     └── IMG_5541.jpg  # profile portrait
 ```
-
-## Notes for future updates
-
-A few links are staged but not yet live (YouTube, Facebook, TikTok,
-Snapchat) — each is marked with a `TODO` comment directly in the HTML at
-the point where the real URL/handle needs to be dropped in once that
-channel is public. The collaboration email is currently a placeholder
-address and should be swapped for the client's real contact before launch.
 
 ## Why this exists
 
