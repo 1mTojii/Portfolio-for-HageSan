@@ -1,7 +1,7 @@
 # [HageSan's](https://www.instagram.com/hagesanja/) Portfolio
 
 NOTE: Its note completed yet, its under construction <br>
-NOTE: SOON IT WILL BE HOSTED
+NOTE: The application is hosted, but is still under construction
 
 A custom portfolio page built for a client, designed to
 sit at the center of their social presence.
