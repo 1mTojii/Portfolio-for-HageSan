@@ -3,7 +3,7 @@
 NOTE: Its note completed yet, its under construction <br>
 NOTE: The application is hosted, but is still under construction
 
-A custom portfolio page built for a client, designed to
+This is a custom portfolio page built for my client, designed to
 sit at the center of their social presence.
 
 ## Live Preview
